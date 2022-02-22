@@ -1,6 +1,6 @@
 <?php
 
-namespace LP\Calculator;
+namespace lP\Calculator;
 
 use Illuminate\Support\ServiceProvider;
 
