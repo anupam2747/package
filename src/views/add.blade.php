@@ -1,0 +1,1 @@
+<h1>Your Result is: {{ $result }}</h1>
