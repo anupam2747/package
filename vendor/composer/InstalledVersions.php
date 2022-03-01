@@ -30,19 +30,19 @@ private static $installed = array (
     'aliases' => 
     array (
     ),
-    'reference' => 'd5023a3083df7fad5b0f109f01dd39aa36a77147',
-    'name' => 'ppp/calculator',
+    'reference' => '4a7b9b63e3c85aa892c0edf6779352430398c4e0',
+    'name' => 'anupam_00072/calculator1',
   ),
   'versions' => 
   array (
-    'ppp/calculator' => 
+    'anupam_00072/calculator1' => 
     array (
       'pretty_version' => 'dev-master',
       'version' => 'dev-master',
       'aliases' => 
       array (
       ),
-      'reference' => 'd5023a3083df7fad5b0f109f01dd39aa36a77147',
+      'reference' => '4a7b9b63e3c85aa892c0edf6779352430398c4e0',
     ),
   ),
 );
