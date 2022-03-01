@@ -1,5 +1,21 @@
 {
     "name": "anupam_00072/calculator",
     "description": "calculator",
-    "require": {}
+    "require": {},
+
+    "autoload": {
+        "psr-4": {
+            "LP\\Calculator\\": "calculator/src/"
+        }
+    },
+    "extra": {
+        "laravel":{
+            "providers": [
+                "LP\\Calculator\\CalculatorServiceProvider"
+            ]                                                                       
+        }
+    }
+
+
 }
+
